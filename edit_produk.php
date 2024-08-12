@@ -142,7 +142,7 @@ if (isset($_POST['simpan'])) {
                                 <option value="Makanan" <?php if ($kategori == "Makanan") echo "selected" ?>>Makanan</option>
                                 <option value="Minuman" <?php if ($kategori == "Minuman") echo "selected" ?>>Minuman</option>
                                 <option value="Aksesoris" <?php if ($kategori == "Aksesoris") echo "selected" ?>>Aksesoris</option>
-                                <option value="MakeuUp" <?php if ($kategori == "MakeuUp") echo "selected" ?>>MakeuUp</option>
+                                <option value="MakeUp" <?php if ($kategori == "MakeUp") echo "selected" ?>>MakeUp</option>
                             </select>
                         </div>
                     </div>
